@@ -1,0 +1,9 @@
+{
+  "name": "multi-rtsp-bitrate",
+  "version": "1.0.0",
+  "bin": "multi-rtsp-bitrate.js",
+  "pkg": {
+    "targets": ["node18-linux-x64"],
+    "outputPath": "dist"
+  }
+}

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=multi-rtsp-bitrate
+Comment=RTSP bitrate monitor
+Terminal=true
+Exec=/home/aira/Desktop/multi-rtsp-bitrate/run.sh
+Path=/home/aira/Desktop/multi-rtsp-bitrate
+Icon=utilities-terminal
+
