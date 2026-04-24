@@ -1,0 +1,14 @@
+{
+  "url": "https://api.yourserver.com/v1/status",
+  "method": "POST",
+  "pathPrefix": "/api",
+  "username": "admin_user",
+  "password": "your_secure_password",
+  "intervalMs": 5000,
+  "timeoutMs": 3000,
+  "logFile": "server_monitor.log",
+  "payload": {
+    "test": "data"
+  },
+  "testStartTimeStr": "2026-04-10T14:00:00Z"
+}
