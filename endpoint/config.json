@@ -1,0 +1,14 @@
+{
+    "host": "192.168.15.115",
+    "port": 8084,
+    "targetAPI": "https://192.168.15.115:8084/api/aira/extractRecords",
+    "method": "POST",
+    "pathPrefix": "/",
+    "username": "Admin",
+    "password": "123456",
+    "testStartTimeStr": "2026/03/20 11:30:00",
+    "intervalMs": 1000,
+    "timeoutMs": 5000,
+    "payload": {},
+    "logFile": "endpoint.log"
+}
